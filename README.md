@@ -1,68 +1,103 @@
-<h1 align="center">Hi there, I'm Narayan Kakade 👋</h1>
-<h3 align="center">B.Tech CSE Undergrad @ NIT Jalandhar | Competitive Programmer |Machine Learning </h3>
+<div align="center">
+  <!-- Epic Thousand Sunny Sailing Banner -->
+  <img src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif" alt="Thousand Sunny One Piece Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 215, 0, 0.3);"/>
 
-<p align="center">
+  <h2>☠️ 「 THE GRAND LINE AWAITS • I'm Narayan Kakade 」 ☠️</h2>
+  <h3>🏴‍☠️ B.Tech CSE @ NIT Jalandhar | Codeforces Pirate | Machine Learning 🏴‍☠️</h3>
+  <i>"I'm going to be the King of the Coders!"</i>
+
+  <br><br>
+
+  <!-- One Piece Themed Typing SVG (Gold Color) -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+GestureSpeak+AI+&+BHARAT360;Grinding+Codeforces+(Target:+Specialist);Flutter,+C++,+&+Python+Developer;Anime+Fan+&+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Navigating+the+Tech+Grand+Line;Current+Bounty+Goal:+Codeforces+Specialist;Devil+Fruit:+Machine+Learning+%26+Computer+Vision;Looking+for+Nakama+to+Build+the+Future!" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
----
+<br>
 
-### 👨‍💻 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-* 🎓 Currently pursuing my **Bachelor of Technology in Computer Science and Engineering** at Dr. B. R. Ambedkar National Institute of Technology (NIT) Jalandhar.
-* 🚀 Gearing up for the summer placement season and actively building scalable, impactful solutions.
-* 💻 Passionate about Competitive Programming. I'm currently grinding on **Codeforces** with the goal of hitting that Specialist rank!
-* 🧠 Deeply interested in **Artificial Intelligence, Machine Learning**, and leveraging tech for social impact (like local LLMs and Computer Vision).
-* 🍿 When I'm not debugging or participating in contests, you can find me watching underrated anime or exploring entrepreneurship challenges like the Tata Imagination Challenge.
+### 🧭 The Pirate's Log (About My Journey)
 
----
+<img align="right" width="220" src="https://media.giphy.com/media/p8Qp7FFGfLcEE/giphy.gif" alt="Luffy Determined" style="border-radius: 10px; margin-left: 15px;"/>
 
-### 🛠️ Tech Stack & Tools
+The journey to the New World requires strong Haki and unbreakable logic. I am currently in my training arc, preparing for the summer placement season and building tools that make a real impact on the world. 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-</p>
+*   **Current Island:** Undergrad studying CSE at **NIT Jalandhar**.
+*   **Haki Training:** Sharpening my competitive programming skills on **Codeforces**. My immediate target? Unlocking the **Specialist** rank!
+*   **Devil Fruit Abilities:** Deeply invested in **Artificial Intelligence, Machine Learning**, and using local LLMs & Computer Vision for social impact.
+*   **When Not Sailing:** You can find me participating in entrepreneurship challenges (like the Tata Imagination Challenge) or watching some underrated anime.
 
----
+<br>
 
-### 🚀 Featured Projects
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-* **[GestureSpeak AI](#)** - An assistive communication platform engineered using Computer Vision and local Large Language Models to bridge communication gaps.
-* **[BHARAT360](#)** - A comprehensive civic education tool and platform designed to increase legal awareness and accessibility.
-* **[AcadNest](#)** - A dedicated study hub platform built to support and streamline resources for students. 
+### ⚔️ Arsenal & Weapons (Tech Stack)
 
----
+<div align="center">
+  <p><i>The tools I use to conquer the seas of development:</i></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,flutter,opencv,numpy,html,css,firebase,git,github,linux&perline=6&theme=dark" />
+  </a>
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+### 📜 Poneglyphs Decoded (Featured Projects)
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🗣️ GestureSpeak AI</h3>
+      <img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" width="150" style="border-radius:10px;"/><br><br>
+      <p>An assistive communication platform mapping physical gestures to commands using <b>Computer Vision</b> and local <b>Large Language Models</b>.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🏛️ BHARAT360</h3>
+      <img src="https://media.giphy.com/media/4OBq5v6J4sgje/giphy.gif" width="150" style="border-radius:10px;"/><br><br>
+      <p>A civic education tool designed to increase legal awareness, democratize rights, and simplify access to government welfare schemes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>📚 AcadNest</h3>
+      <p>A centralized study hub platform engineered to support, organize, and streamline academic resources for university students.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+### 💰 Wanted Posters (GitHub Stats)
+
+<div align="center">
+  <!-- Custom Colored Stats: Dark Background with Pirate Gold and Red Accents -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=111111&title_color=FFD700&icon_color=FF0000&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=111111&fire=FF0000&ring=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
+  <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=111111&title_color=FFD700&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
   </a>
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="200" alt="Anime GIF" />
-</p>
-<h3 align="center">Let's connect and build something awesome!</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/PhZ51KElDP2Xq0HIfR/giphy.gif" width="300" alt="Straw Hat Crew Toast" style="border-radius: 15px;" />
+  <h3><i>"Come aboard and bring along all your hopes and dreams!"</i></h3>
+  <p><b>Let's connect and build something legendary!</b></p>
+</div>
